@@ -1,3 +1,3 @@
 # git_training
 First time using Github.
-This is not fun.
+This is not very fun.
